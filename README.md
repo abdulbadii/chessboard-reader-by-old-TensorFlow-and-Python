@@ -1,17 +1,17 @@
 # Chessboard recognizer
 
-Uses a convolutional neural network to recognize the positions of pieces
-on a chessboard image.
+Uses a convolutional neural network to   
+recognize all pieces positions in   
+chessboard image
 
-If you have an image of a chessboard in `chessboard.png`
 
 <img src="https://user-images.githubusercontent.com/208617/69907303-d526b400-13a0-11ea-982f-47dc7cacecdc.png" width=240 />
 
-Run the program like this
+If you have a chessboard image in PNG format and run the Python script:   
 
 `./recognize.py chessboard.png`
 
-To get the chessboard position in [FEN](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) notation
+You will get the chessboard position in [FEN](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) notation
 
 `3rkb1r/1pp2ppp/2n1q1n1/p3Pb2/2Pp4/PN3NB1/1P1QPPPP/3RKB1R`
 
