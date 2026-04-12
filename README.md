@@ -43,7 +43,7 @@ pip3 install -r requirements.txt
 
 You'll need a neural network model to use `./recognize.py`
 
-To use a pre-trained model, click [nn.zip] to download (https://github.com/abdulbadii/chess-position-reader-old-TensorFlow-and-Python/releases/download/model_(hdf5)/nn.zip) then unzip in the project root folder.
+To use a pre-trained model, click [nn.zip](https://github.com/abdulbadii/chess-position-reader-old-TensorFlow-and-Python/releases/download/model_(hdf5)/nn.zip) to download then unzip in the project root folder.
 
 To train your own model, you'll first need lots of images of chessboards
 
